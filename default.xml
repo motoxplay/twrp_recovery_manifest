@@ -548,4 +548,7 @@
   <!-- OmniROM -->
   <include name="omni-default.xml" />
 
+  <!-- Minimalism -->
+  <include name="twrp-remove.xml" />
+
 </manifest>
